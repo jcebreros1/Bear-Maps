@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8.4">
+	<node id="31831307" lat="37.8225916" lon="-122.2629044" version="1"/>
+    	<node id="2985554678" lat="37.822431" lon="-122.2620794" version="1"/>
+    	<node id="56127463" lat="37.8212905" lon="-122.2667569" version="1"/>
+    	<node id="2304195875" lat="37.8210829" lon="-122.2641257" version="1"/>
+	<way id="4757566" version="1">
+    		<nd ref="2985554678"/>
+    		<nd ref="56127463"/>
+    		<nd ref="2304195875"/>
+    		<tag k="oneway" v="yes"/>
+    		<tag k="source" v="PGS"/>
+            <tag k="natural" v="coastline"/>
+    </way>
+</osm>
